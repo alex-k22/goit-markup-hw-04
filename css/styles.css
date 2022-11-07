@@ -356,7 +356,6 @@ img {
 	margin-bottom: 9px;
 }
 .container-socials {
-	margin-left: 70px;
 	margin-top: 12px;
 }
 .site-footer .address-link {
@@ -365,7 +364,9 @@ img {
 }
 .footer-container {
 	display: flex;
-	gap: 70px;
+}
+.container-adress {
+	margin-right: 95px;
 }
 .footer-socials {
 	display: flex;
